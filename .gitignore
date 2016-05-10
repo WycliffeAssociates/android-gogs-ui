@@ -1,0 +1,8 @@
+# Ignore Intellij developer-specific files
+.idea
+*.iml
+*.pro
+
+# Ignore Vim swap and undo files
+*.swp
+*.un~
